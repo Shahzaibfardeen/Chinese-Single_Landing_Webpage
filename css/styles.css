@@ -13,7 +13,7 @@ body {
   border: 0;
 }
 
-/* Restaurant Logo & Image */
+/* Restaurant Logo & Images */
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
@@ -26,7 +26,7 @@ body {
   padding-top: 25px;
 }
 
-/* Restaurant Name */
+/* Restaurant Names */
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
   color: #557c3e;
@@ -43,7 +43,7 @@ body {
   text-decoration: none;
 }
 
-/* Kosher cert */
+/* Kosher cert  */
 .navbar-brand p { 
   color: #000;
   text-transform: uppercase;
@@ -78,7 +78,7 @@ body {
   margin-top: 5px;
 }
 
-/* Phone number */
+/* Phone Number */
 #phone a { 
   text-align: right;
   padding-bottom: 0;
